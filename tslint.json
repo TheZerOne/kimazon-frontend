@@ -31,6 +31,17 @@
       true,
       140
     ],
+    "indent": [true, "spaces",4],
+    "variable-name": {
+      "options": [
+        "ban-keywords",
+        "check-format",
+        "allow-leading-underscore",
+        "allow-pascal-case",
+        "allow-snake-case",
+        "allow-trailing-underscore"
+      ]
+    },
     "member-access": false,
     "member-ordering": [
       true,
